@@ -7,7 +7,7 @@ Personal Website
 
 My personal first website written in HTML and CSS.
 
-Link: 
+Link: https://ratzushca.github.io/Personal_Website/Andy_course/Index.html
 
 <img width="651" alt="Screen Shot 2021-12-21 at 11 25 45 PM" src="https://user-images.githubusercontent.com/93014061/147134450-a08a47c6-34b5-4239-9d86-a2df2e014a7c.png">
 
@@ -24,4 +24,4 @@ Author
 Elena Springs - Jr. Software Developer :
 
 LinkedIn: https://www.linkedin.com/in/elena-springs-9b8740191/
-Website: 
+Website: https://ratzushca.github.io/Personal_Website/Andy_course/Index.html
